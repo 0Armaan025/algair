@@ -43,7 +43,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <p>&copy; 2024 ALGAIR. Engineering nature into cleaner mobility.</p>
+        <p>&copy; 2026 ALGAIR. Engineering nature into cleaner mobility.</p>
       </footer>
     </div>
   )
